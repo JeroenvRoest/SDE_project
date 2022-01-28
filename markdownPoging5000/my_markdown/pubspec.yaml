@@ -64,6 +64,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
 assets:
 - assets/hello.md
+- assets/zuidafrika.md
   
 
   # An image asset can refer to one or more resolution-specific "variants", see
